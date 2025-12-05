@@ -1,0 +1,53 @@
+Create a simple console-based ATM program in C#. The program should start with a welcome message and show a menu with options: show balance, deposit, withdraw, or exit. The user can choose an action repeatedly until they exit. Use input/output, conditional statements, and loops to handle user interaction and balance management.
+
+-------------------------------------------------------------------------------------------
+
+welcome - one time
+
+options - looped
+
+input the choice - numbers
+
+show balance - balance value
+
+back
+
+deposit - input deposit value
+
+deposit value + balance value
+
+back
+
+withdraw - input withdraw value
+
+withdraw value - balance value
+
+back 
+
+exit - thank you for using our services.
+
+break the loop
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

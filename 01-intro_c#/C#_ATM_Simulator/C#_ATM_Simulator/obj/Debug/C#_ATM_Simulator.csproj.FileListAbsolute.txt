@@ -1,0 +1,7 @@
+H:\learning\courses\DEPI\GitRepo\DEPIDotNet\01-intro_c#\C#_ATM_Simulator\C#_ATM_Simulator\bin\Debug\C#_ATM_Simulator.exe.config
+H:\learning\courses\DEPI\GitRepo\DEPIDotNet\01-intro_c#\C#_ATM_Simulator\C#_ATM_Simulator\bin\Debug\C#_ATM_Simulator.exe
+H:\learning\courses\DEPI\GitRepo\DEPIDotNet\01-intro_c#\C#_ATM_Simulator\C#_ATM_Simulator\bin\Debug\C#_ATM_Simulator.pdb
+H:\learning\courses\DEPI\GitRepo\DEPIDotNet\01-intro_c#\C#_ATM_Simulator\C#_ATM_Simulator\obj\Debug\C#_ATM_Simulator.csproj.AssemblyReference.cache
+H:\learning\courses\DEPI\GitRepo\DEPIDotNet\01-intro_c#\C#_ATM_Simulator\C#_ATM_Simulator\obj\Debug\C#_ATM_Simulator.csproj.CoreCompileInputs.cache
+H:\learning\courses\DEPI\GitRepo\DEPIDotNet\01-intro_c#\C#_ATM_Simulator\C#_ATM_Simulator\obj\Debug\C#_ATM_Simulator.exe
+H:\learning\courses\DEPI\GitRepo\DEPIDotNet\01-intro_c#\C#_ATM_Simulator\C#_ATM_Simulator\obj\Debug\C#_ATM_Simulator.pdb
